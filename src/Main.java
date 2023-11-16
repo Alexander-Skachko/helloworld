@@ -70,7 +70,5 @@ public class Main {
         var plan = time / people;
         System.out.println("Если в компании работает " + people + ", то всего " + plan + " часа работы может быть поделено между сотрудниками");
 
-
-
      }
 }
