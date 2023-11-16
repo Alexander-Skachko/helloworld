@@ -1,5 +1,6 @@
 public class Main {
     public static void main(String[] args) {
+
         System.out.println("Привет мир!");
         System.out.println("Helo World!");
 
@@ -69,6 +70,5 @@ public class Main {
 
         var plan = time / people;
         System.out.println("Если в компании работает " + people + ", то всего " + plan + " часа работы может быть поделено между сотрудниками");
-
      }
 }
